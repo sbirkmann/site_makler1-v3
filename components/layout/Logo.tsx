@@ -33,7 +33,7 @@ export function Logo({
         />
         <path
           d="M8 20.4 13.4 14l3.6 4.3 3.6-4.3L26 20.4"
-          stroke={tone === "light" ? "#ffffff" : "#e5ac6b"}
+          stroke={tone === "light" ? "#ffffff" : "#1f63c7"}
           strokeWidth="1.9"
           strokeLinecap="round"
           strokeLinejoin="round"
